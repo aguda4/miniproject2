@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(70,107, 199);
+    background-color: black;
     margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
@@ -12,15 +12,21 @@ img{
 }
 
 h1{
-    color: greenyellow;
+    color: red;
     text-align: center;
     
 }
 
 p{
+
     color: red;
-    text-align: center;
-    margin-left: 10%;
+
+}
+
+a{
     
+    color: red;
+    font-size: 200%;
+
 }
 
